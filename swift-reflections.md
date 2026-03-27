@@ -19,6 +19,6 @@ Q: What defines the ‘Three Generations’ of E-Lit that Flores refers to?
 
 The first-generation of E-lit is outlined in N. Katherine Hayles' (2007) work, 'Electronic Literature: What is it?'. In it she describes the first generation work being limited by slower technology, where graphics were shoddy and a focus was placed purely on text. The second-generation is defined by those who used the faster and newer technology of the web to create work that was more interactive and flashier, implementing things like quicktime and more game elements. The third-generation work is really where we are now: memes, and instagram text posts, work that is kind of divorced from the Electronic Literature lineage, and came about through the apps people frequently use and play with.
 
-CLASS REFLECTION 25/03/26
+CLASS REFLECTION 25/03/26 (dont have to grade this one) 
 
 All four games had different mapping. I would say Untitled is plot as interplay or vector with side branches. Real estate one is maybe Sea anenome but is a structure that always loops back to the start with disimilar journeys and that's not exactly sea anenome. I liked the untilted one, I'm annoyed that it _looks_ like twine has been used, if I was going to make my piece on twine I would make it look like twine has not been used. 
