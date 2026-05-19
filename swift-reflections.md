@@ -22,3 +22,36 @@ The first-generation of E-lit is outlined in N. Katherine Hayles' (2007) work, '
 CLASS REFLECTION 25/03/26 (dont have to grade this one) 
 
 All four games had different mapping. I would say Untitled is plot as interplay or vector with side branches. Real estate one is maybe Sea anenome but is a structure that always loops back to the start with disimilar journeys and that's not exactly sea anenome. I liked the untilted one, I'm annoyed that it _looks_ like twine has been used, if I was going to make my piece on twine I would make it look like twine has not been used. 
+
+WEEK 6 SWIFT REFLECTIONS:
+
+CONCEPT: BL0GW0RLD will be an interactive message board filled with posts from various members of the fictional Melbourne suburb, Randwood.
+The first post will be from a character named Amy who is a year 12 student at St. Mary Baptist. The background will be a black void with an 
+animated squares signifying the post and who it is by. As you read more posts you unlock more characters and more of their posts. There will
+be an overarching narrative I haven't decided on yet.
+
+3 tasks before next week:
+
+I need to figure out an exact plot line and story and figure out how I want this to work
+
+Think of a clear plot line and realise all my characters
+
+Make a rough prototype of the elit story using css 
+
+Design a gif or two of the blog names 
+
+Write the first three blogs 
+
+CLASS EXERCISE REFLECTION
+
+I’m still trying to figure out the exact direction I want to take my project. I don’t want to cheapen the text by gamifying my project too much if it was the idea of monitoring people of this suburb. My other idea is just for the reader to monitor blogs of residents of this suburb and eventually there will be connections made, conspiracy with this one guy appearing in everyone’s stories. Maybe you get a blog unlocked from him but it disappears. 
+
+Or do I have it be the sort of message board where everyone is communicating?
+
+WEEK 7 SWIFT REFLECTION:
+
+I deisigned my first gifs for my character Rose, Graham and Van. I've thought of a more clear plot line for my characters and I've figured out what I want to say with this piece of e-lit. I want to create a story world where there are loads of options and I want the reader to feel like they are controlling the story in a real way, not in a faux oh there's three endings way. I want whatever mood the reader is in to dictate what happens at the end of the stories - if they're feeling hopeful I want them to have decisions that are mostly positive that they can make, and the opposite if they're feeling angry or sad. While these positive decisons might not garner the situtaions the reader thought they were going to get I want them to really feel like they're controlling the characters. 
+
+The thing I need to iterate the most is my overarching story, what do I want to say with this story? I think I want to create a world mainly of disparate characters, and as I get to writing more and more I can figure out why I want to do this. I think every character ultimately wants something or is missing something and the reader will be responsible for going down the best path they think to lead them to salvation or not. 
+
+The purpose of my piece is to create a mini world of fun characters that have their own stories with different meanings (?) the reader can control, inspiration would maybe be the episode of Adventure Time 'All the Little People' where Finn finds a bag full of his friends and aquantinces and acts as a sort of God with them, primarily making weird matches with his friends, Marceline and Peppermint Butler etc. He becomes addicted and obsessed and eventually after a while has to talk to himself and reign in that obsession. Maybe it'll be so convoluted and there are so many options that you just wanna keep moving through? Not sure! As you go through more characters you unlock more and more people which is fun. I need to grind at it though, just keep working and reading other stuff for inspo. 
