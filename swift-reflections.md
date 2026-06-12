@@ -48,10 +48,26 @@ I’m still trying to figure out the exact direction I want to take my project. 
 
 Or do I have it be the sort of message board where everyone is communicating?
 
-WEEK 7 SWIFT REFLECTION:
+WEEK 7 SWIFT REFLECTIONS:
 
 I deisigned my first gifs for my character Rose, Graham and Van. I've thought of a more clear plot line for my characters and I've figured out what I want to say with this piece of e-lit. I want to create a story world where there are loads of options and I want the reader to feel like they are controlling the story in a real way, not in a faux oh there's three endings way. I want whatever mood the reader is in to dictate what happens at the end of the stories - if they're feeling hopeful I want them to have decisions that are mostly positive that they can make, and the opposite if they're feeling angry or sad. While these positive decisons might not garner the situtaions the reader thought they were going to get I want them to really feel like they're controlling the characters. 
 
 The thing I need to iterate the most is my overarching story, what do I want to say with this story? I think I want to create a world mainly of disparate characters, and as I get to writing more and more I can figure out why I want to do this. I think every character ultimately wants something or is missing something and the reader will be responsible for going down the best path they think to lead them to salvation or not. 
 
 The purpose of my piece is to create a mini world of fun characters that have their own stories with different meanings (?) the reader can control, inspiration would maybe be the episode of Adventure Time 'All the Little People' where Finn finds a bag full of his friends and aquantinces and acts as a sort of God with them, primarily making weird matches with his friends, Marceline and Peppermint Butler etc. He becomes addicted and obsessed and eventually after a while has to talk to himself and reign in that obsession. Maybe it'll be so convoluted and there are so many options that you just wanna keep moving through? Not sure! As you go through more characters you unlock more and more people which is fun. I need to grind at it though, just keep working and reading other stuff for inspo. 
+
+WEEK 10 REFLECTION:
+
+I will take on the feedback of making my story more clear, finding a real narrative. I'm thinking about something corruption in my suburb. Not sure. I appreciate the feedback from Ben about having more fun with it, being more crazy. Also that I should add more music. 
+
+3 KEY TASKS: I need to set out a plot definitively, make more music, and finish my script.
+
+WEEK 11 REFLECTION: 
+
+What place do affect and emotion have in digital works? Emotion and affect can be brought out in differerent ways in digital work, in e-lit there is access to music and visual cues that books do not have. It's more akin to directing a movie or video game than it is a written book.
+How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice? It lets you know what has come before you, not only the e-lit but the theory and all the work put into figuring stuff we take for granted out. If we reflect on the theories of plot for example in our week 4 reading it just helps us immensely with out work
+What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?
+It helps to know the context about this piece with Jenny's mother, I see the narrative arc of frustration and grief into acceptance here. Not only with the small snippets she shares of the work but how Jenny describes her process, finding out things about herself through her own AI bot. 
+
+DRAFT OF REFLECTION: I started out the semester with a very unclear idea of my project. The biggest struggle for me this semester was less about the coding but more about the writing. I had no direction for the story for so long and it was really frustrating. Thankfully, after extensive tweaking, I landed on something that I really do love and am super proud of. The first iteration of my project was titled ‘BL0GWORLD’ and was supposed to be about a reader looking at various blog posts from residents of a fake Melbourne suburb and there was supposed to be an overarching thing keeping them together. However, I wasn’t sure how they would connect and I really only had the start of a story to go off. Then after workshopping in class I landed on ‘THE DECISIONS’, an interactive experience where you make decisions for multiple characters good or bad with very random and interesting outcomes. I had lofty ideas of so-called ‘infinite choices’ and decisions and it was too big in scope. I also ditched my fake suburb idea in the process largely, it was still there but I didn’t focus on it. Unfortunately again I didn’t really have a story either. I realise now I was trying to make a perfect story filled with literary allusions and deep meanings and I was neglecting a plot for ‘vibe’. 
+
